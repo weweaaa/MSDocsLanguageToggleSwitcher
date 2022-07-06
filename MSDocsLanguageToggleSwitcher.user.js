@@ -7,6 +7,7 @@
 // @namespace    https://github.com/weweaaa/MSDocsLanguageToggleSwitcher
 // @author       Jia
 // @match        *://docs.microsoft.com/*
+// @match        *://azure.microsoft.com/*
 // ==/UserScript==
 
 
